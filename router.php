@@ -27,7 +27,7 @@
             //     //if there was no action found in the URL then display the homepage with the according language
                 // displayHomePage($lang);
             // }
-        require_once('pages/home.html');
+        require_once('pages/home.php');
         } else if ($page == 'biber') {            
             require_once('pages/biber.html');
         } else if ($page == 'pfadi') {
