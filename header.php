@@ -1,18 +1,18 @@
-<nav class="navbar" style="background-color: #ededed">
-                <div class="navbar-brand">
+    <nav class="navbar" style="background-color: #ededed">
+        <div class="navbar-brand">
                         <a class="navbar-item has-text-black-bis" href="../index.php" style="background-color: #f46b42">
                             <img src="images\logo.png" alt="Applied Experience" width="32" height="32">
-                            <h3 style="padding-left: 4px;">Pfadi Hochwacht Baden</h3>
+                            <h3 class="subtitle" style="padding-left: 4px;">Pfadi Hochwacht Baden</h3>
                         </a>
                     <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
                         <span></span>
                     </div>
-                </div>
+        </div>
 
-                <div id="navbarExampleTransparentExample" class="navbar-menu">
+        <div id="navbarExampleTransparentExample" class="navbar-menu">
                     <div class="navbar-start">
                         <a class="navbar-item" href="index.php">
-                                Home
+                                HWB
                         </a>
                         <a class="navbar-item" href="index.php?page=biber.php">
                                 Biber
@@ -35,6 +35,5 @@
                             </a>
                         </div>
                     </div>
-
-                </div>
-            </nav>
+        </div>
+    </nav>

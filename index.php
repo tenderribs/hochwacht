@@ -8,7 +8,7 @@
             require_once('metaData.php');
         ?>
     </head>
-    <body>
+    <body style="background-color: #d6d6d6;">
         <?php
                 //navbar
                 require_once('header.php');
